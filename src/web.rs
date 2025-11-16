@@ -184,7 +184,7 @@ pub fn BindingsPage() -> impl IntoView {
                         style:color="#667eea"
                         style:border="1px solid #667eea"
                     >
-                        "http://localhost:8000/?cmd=gh anthropics/claude-code"
+                        "http://localhost:8000/?cmd=gh facebook/bunnylol.rs"
                     </code>
                 </div>
             </footer>
